@@ -18,6 +18,7 @@ This guide provides step-by-step instructions for creating a new ACM in the Ampl
    Upon successful connection, you should see a welcome message:
    ```
    Welcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-55-generic x86_64)
+   ........
    ```
 
 3. **Navigate the File System**
@@ -46,7 +47,7 @@ This guide provides step-by-step instructions for creating a new ACM in the Ampl
 
 ## Command Parameters Reference
 
-The `new-acm` command creates a new Access Control Module in the Amplio backend system. Below is a comprehensive reference guide for all available parameters.
+The `new-acm` command creates a new Access Control Module in the Amplio backend system. Below is a comprehensive reference guide for all available parameters
 
 | Parameter | Description | Requirement |
 |-----------|-------------|------------|
