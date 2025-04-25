@@ -18,7 +18,9 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install -g vitepress
 
       - name: Install VitePress
         run: npm install vitepress
