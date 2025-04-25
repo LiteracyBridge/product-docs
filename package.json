@@ -1,0 +1,19 @@
+{
+  "name": "product-documentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "deploy": "vitepress build docs && vitepress serve docs && gh-pages -d docs/.vitepress/dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
