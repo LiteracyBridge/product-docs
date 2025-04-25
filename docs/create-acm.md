@@ -1,6 +1,6 @@
 # Creating a New ACM in Amplio Backend
 
-This guide provides step-by-step instructions for creating a new ACM in the Amplio backend system.
+This guide provides step-by-step instructions for creating a new ACM in the Amplio backend system
 
 ## Prerequisites
 - Make sure you have your GitHub SSH key connected to the server
