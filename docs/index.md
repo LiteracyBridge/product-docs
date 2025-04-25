@@ -1,8 +1,6 @@
-# Welcome to your app
+# Welcome to the Product Docs
 
-This is the official product documentation powered by **VitePress**.
+## Choose an Action:
 
-- Fast ⚡
-- Lightweight 🪶
-- Vue-powered 🌱
-
+- [Create a New ACM](./create-acm.md)
+- [Another Page](./another-page.md)
