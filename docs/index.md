@@ -3,4 +3,4 @@
 ## Choose an Action:
 
 - [Create a New ACM](./create-acm.md)
-<!-- - [Another Page](./another-page.md) -->
+- [ACM Syncrhronizing Issue](./sync_issue.md)
