@@ -4,3 +4,8 @@
 
 - [Create a New ACM](./create-acm.md)
 - [ACM Syncrhronizing Issue](./sync_issue.md)
+
+
+
+## firmware issues
+- [refresh a dead firmware device](./dead-acm.md)
