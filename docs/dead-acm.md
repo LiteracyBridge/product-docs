@@ -1,22 +1,3 @@
-<!-- # How to refresh a dead firmware device
-
----
-- 1.	Open/launch the tb-loader application
-  ![tb-loader](images/firmware-issues/image.png)
-
-  ---
-- 2.	Connect the Talking Book to your computer and select TBV2 as the device that you have connected on the tb-loader. 
-  ![tb-loader](images/firmware-issues/111.png)
-
-  ---
-
-- 3.	Click on “update TB firmware” to open another dialog box. 
-  ![tb-loader](images/firmware-issues/222.png)
-
----
-  - 4.	On the opened dialog box, there are instruction to follow. Press the pot and hold, whiles holding the down the pot press the tree and the table concurrently for 3 seconds, release the tree and the table and then release the pot -->
-
-
   # How to Refresh a Dead Firmware Device
 
 Follow these simple steps to restore your Talking Book when experiencing firmware issues.
