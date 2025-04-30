@@ -1,1 +1,0 @@
-import{_ as a,c as t,o,ae as r}from"./chunks/framework.B8DKtSJt.js";const u=JSON.parse('{"title":"Welcome to the Product Docs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function s(c,e,n,l,d,h){return o(),t("div",null,e[0]||(e[0]=[r("",5)]))}const _=a(i,[["render",s]]);export{u as __pageData,_ as default};
