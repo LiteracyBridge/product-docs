@@ -2,7 +2,7 @@
 
 ## Choose an Action:
 
-- [Create a New ACM](./create-acm.md)
+- [ACM](./acm.md)
 - [ACM Syncrhronizing Issue](./sync_issue.md)
 
 

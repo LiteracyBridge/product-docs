@@ -7,7 +7,7 @@ This error typically appears when the software fails to connect with the amplio 
 
 ![acm error 1](images/ACM-sync-issues/acm-error-1.png)
 ![acm error 1](images/ACM-sync-issues/acm%20error%202.png)
-![acm error 1](images/ACM-sync-issues/acm%20error%203.png)
+![acm error 1](images)
 ---
 
 ## Step 1: Check Your Network Connection
