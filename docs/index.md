@@ -3,7 +3,7 @@
 ## Choose an Action:
 
 - [ACM](./acm.md)
-- [ACM Syncrhronizing Issue](./sync_issue.md)
+<!-- - [ACM Syncrhronizing Issue](./sync_issue.md) -->
 
 
 
