@@ -2,7 +2,7 @@
 
 ## Choose an Action:
 
-- [ACM](./acm.md)
+- [ACM](/acm/introduction)
 <!-- - [ACM Syncrhronizing Issue](./sync_issue.md) -->
 
 

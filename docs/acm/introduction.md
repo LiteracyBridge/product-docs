@@ -56,7 +56,7 @@ Contact the Amplio tech team for your login details if you don’t have them.
 
     - this is alligning the program content with the program specs
 
-    ![alt text](<Screenshot 2025-04-30 142153.png>)
+    ![alt text](/images/Screenshot 2025-04-30 142153.png)
 
     v. finish
     ![finish](/images/acm/Screenshot%202025-04-30%20142539.png)
