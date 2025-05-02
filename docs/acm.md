@@ -61,6 +61,14 @@ Contact the Amplio tech team for your login details if you don’t have them.
     v. finish
     ![finish](images/acm/Screenshot%202025-04-30%20142539.png)
 
+    ## 4. Playlist prompts import
+    - the playlist are set of audio content that are imported into the ACM. 
 
+    ## 5. System prompts import
+    - the instructional languages that allow you to operate the talking books
 
+    ## 6. Deployment creation
+    - 
+
+    ## FAQs
   
