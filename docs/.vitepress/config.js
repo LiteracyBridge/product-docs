@@ -16,11 +16,14 @@ export default {
 	themeConfig: {
     aside: true,
     outline: 2,
+    search: {
+      provider: 'local'
+    },
 		sidebar: [
 			{
 				text: "Audio Content Manager",
 				items: [
-					// { text: 'Introduction', link: '/introduction' },
+					{ text: 'Introduction', link: '/acm/introduction' },
 				],
 			},
 		],
@@ -28,20 +31,20 @@ export default {
       pattern: 'https://github.com/LiteracyBridge/product-documtation/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
-    footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You'
-    },
+    // footer: {
+    //   message: 'Released under the MIT License.',
+    //   copyright: 'Copyright © 2019-present Evan You'
+    // },
     lastUpdated: {
-      text: 'Updated at',
+      text: 'Last updated',
       formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
+        dateStyle: 'short',
+        timeStyle: 'short'
       }
     },
     docFooter: {
-      prev: 'Pagina prior',
-      next: 'Proxima pagina'
+      prev: 'Previous page',
+      next: 'Next page'
     }
 	},
 
