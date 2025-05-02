@@ -1,73 +1,48 @@
-# ACM Setup Guide
-
-## 1. SETUP
-
-These are the steps to follow to set up the Amplio ACM:
-
-- First, follow [this link](https://downloads.amplio.org/software/index.html) to download the latest version of the ACM.
-
-![the ACM](/images/acm/Screenshot%202025-04-30%20101419.png)
-
-
-- **Install the ACM:**
-  Just a simple installation process like any other `.exe` app. Install the ACM by running the installer.
-
-## 2. LOGIN
-
-Once the installation is successful, proceed to log in.
 ---
-![LOGIN FLOW](/images/acm/Screenshot%202025-04-30%20084832.png)
-Contact the Amplio tech team for your login details if you don’t have them.
-
+title: Introduction - Audio Content Manager (ACM)
 ---
 
-- **Program Selection:**
-  Search through the available programs to select your program.
-  ---
-  ![program selection](/images/acm/Screenshot%202025-04-30%20084904.png)
-  If you can't find your program in the ACM, contact the Amplio tech team.
+# Audio Content Manager (ACM)
 
-- **Program Setup:**
-  no infor yet... please wait im thinking...
+The Audio Content Manager (ACM) imports and packages audio contents into a specialized format that can be loaded onto Talking Book devices.
+Key functionalities of the ACM are:
 
-## 3. CONTENT IMPORT
+- Import audio contents as listed in the program specification (TODO: INSERT A LINK REF).
+- Create content packages for deployments.
 
-- **Deployment and Language Selection:**
-  Look at the far-left corner; you will see an icon that looks like a computer (the drawer icon).
-    ![program selection](/images/acm/image.png)
+## Audio Contents
 
-    i. - **Choosing a deployment**
-    - Deployment Assistant
-    - Choose the deployment number you want to create and select the language
-      ![program selection](/images/acm/Screenshot%202025-04-30%20112946.png)
+> [!IMPORTANT]
+> To create a deployment successfully, it is important to understand the audio groupings!
 
+The ACM organizes audio files into two main categories: **Messages (Contents)** and **Prompts**.
 
-    ---
-    ii. - **message → content matching**
+> [!TIP]
+> **Messages (Contents)** are audio files that convey information related to the program's topic.
+>
 
+> [!TIP]
+> **Prompt** is a short audio, usually less than a minute, that is played to the user as a guide in navigating the Talking Book.
+>
 
-     ![alt text](</images/acm/Screenshot 2025-04-30 131923.png>)
+### Prompt
 
-    iii. audio file upload. upload the audio content from your local machine.
+Prompt is further divided into three (3):  **Playlist Prompt**, **System Prompt** and  **Custom Greeting**.
 
-    ![audio select](/images/acm/Screenshot%202025-04-30%20133513.png)
+> [!CAUTION]
+> When creating a deployment, the ACM indicates missing prompts files, which must be imported.
 
-    iv.**content matching**
+#### Playlist Prompt
 
-    - this is alligning the program content with the program specs
+A playlist or subject prompt is a short audio, usually less than a minute, that plays when a user navigates to a playlist. There are two types of playlist prompts: **short (invitation)** and **long**. Both are required for creating a deployment.
 
-    ![alt text](/images/Screenshot 2025-04-30 142153.png)
+For example, consider a playlist titled *"Creating Mobile Money Account"* The invitation prompt might say, *"Mobile Money Account,"* while the long prompt could say, *"To listen to messages about creating a mobile money account, press the tree."*
+When the user selects the playlist, the Talking Book first plays the invitation prompt, followed by the long prompt.
 
-    v. finish
-    ![finish](/images/acm/Screenshot%202025-04-30%20142539.png)
+#### System Prompt
 
-    ## 4. Playlist prompts import
-    - the playlist are set of audio content that are imported into the ACM.
+A system prompt is short audio which assists the user in navigating the Talking Book. For example, "Press the right hand to choose a subject" and "To try another subject press the right hand" for navigating a playlists, "begin speaking now and press the star when you're finished." for recording feedback, etc.
 
-    ## 5. System prompts import
-    - the instructional languages that allow you to operate the talking books
+#### Custom Greetings
 
-    ## 6. Deployment creation
-    -
-
-    ## FAQs
+When the Talking Book is turned on, it plays an audio which says, "Welcome to the Talking Book, press the right hand to choose a subject." You can replace this with your own audio by uploading a custom greeting.

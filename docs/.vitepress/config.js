@@ -15,7 +15,7 @@ export default {
 
 	themeConfig: {
     aside: true,
-    outline: 2,
+    outline: 'deep',
     search: {
       provider: 'local'
     },
@@ -24,6 +24,7 @@ export default {
 				text: "Audio Content Manager",
 				items: [
 					{ text: 'Introduction', link: '/acm/introduction' },
+					{ text: 'Setup', link: '/acm/setup' },
 				],
 			},
 		],
