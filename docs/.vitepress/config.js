@@ -8,6 +8,9 @@ export default {
       light: "catppuccin-latte",
       dark: "catppuccin-frappe",
     },
+    image: {
+      lazyLoading: true
+    }
   },
 
 	themeConfig: {
