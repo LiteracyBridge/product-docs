@@ -13,7 +13,7 @@ Follow these simple steps to restore your Talking Book when experiencing firmwar
 
 Open the TB-loader application on your computer.
 
-![TB-loader application interface](images/firmware-issues/image.png)
+![TB-loader application interface](/images/firmware-issues/image.png)
 
 ---
 
@@ -21,7 +21,7 @@ Open the TB-loader application on your computer.
 
 Connect the Talking Book to your computer using a USB cable. From the dropdown menu, select **TBV2** as your connected device.
 
-![Device selection in TB-loader](images/firmware-issues/111.png)
+![Device selection in TB-loader](/images/firmware-issues/111.png)
 
 ---
 
@@ -29,7 +29,7 @@ Connect the Talking Book to your computer using a USB cable. From the dropdown m
 
 Click on the **Update TB Firmware** button to open the firmware update dialog box.
 
-![Update firmware button location](images/firmware-issues/222.png)
+![Update firmware button location](/images/firmware-issues/222.png)
 
 ---
 
