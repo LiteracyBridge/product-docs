@@ -3,6 +3,13 @@ export default {
 	title: "Product Documentation",
 	description: "Documentation for Amplion product",
 
+  markdown: {
+    theme: {
+      light: "catppuccin-latte",
+      dark: "catppuccin-frappe",
+    },
+  },
+
 	themeConfig: {
     aside: true,
     outline: 2,
