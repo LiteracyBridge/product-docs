@@ -25,6 +25,7 @@ export default {
 				collapsed: false,
 				items: [
 					{ text: "Introduction", link: "/program-spec/introduction" },
+					{ text: "Creating the Specification", link: "/program-spec/creating-the-spec" },
 					// { text: 'Setup', link: '/acm/setup' },
 				],
 			},

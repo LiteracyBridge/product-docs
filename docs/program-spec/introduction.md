@@ -54,7 +54,7 @@ This section lists the name and code of the languages, which messages are record
 | Name          |    Text     |   Yes        | Language name. eg. `English`.
 | Code          |    Text     |   Yes        | Language code. Refer to the [List of ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). eg. `en`.
 
-## Content
+## Contents
 
 The section list the details of the contents of all deployments. The *contents* mainly of consists of messages and playlists.
 

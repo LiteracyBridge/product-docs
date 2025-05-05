@@ -7,7 +7,7 @@ title: Introduction - Audio Content Manager (ACM)
 The Audio Content Manager (ACM) imports and packages audio contents into a specialized format that can be loaded onto Talking Book devices.
 Key functionalities of the ACM are:
 
-- Import audio contents as listed in the program specification (TODO: INSERT A LINK REF).
+- Import audio contents as listed in the [program specification](/program-spec/introduction#contents).
 - Create content packages for deployments.
 
 ## Audio Contents
