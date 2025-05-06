@@ -25,6 +25,20 @@ On the dashboard, there are three (3) tabs representing the five (5) sections of
 > [!NOTE]
 > [Languages](./introduction.md#languages) is a dropdown field in the General forms. However, it must be on a separate sheet when [importing from excel file](#excel).
 
+## Saving
+
+After updating the specification or importing it from an Excel file, click **"Save"** to store your changes.
+
+## Publishing
+
+To make the updated specification accessible in the [Audio Content Manager (ACM)](../acm/introduction.md), click **"Publish"**.
+
+## Discard
+
+Click the **Discard** button to remove any changes made to the specification.
+
+> [!WARNING]
+> Clicking the **Discard** button will permanently delete all unsaved changes to the specification.
 
 
 ## Importing from Excel File {#excel}
