@@ -15,4 +15,4 @@ RUN npm run build
 ENV PORT=9000
 EXPOSE ${PORT}
 
-CMD [ "npm", "run", "server", "--", "--port", "9000"]
+CMD [ "npm", "run", "serve", "--", "--port", "9000"]
