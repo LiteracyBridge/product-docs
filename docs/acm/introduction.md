@@ -50,4 +50,6 @@ A system prompt is short audio which assists the user in navigating the Talking 
 
 ### Custom Greetings
 
-When the Talking Book is turned on, it plays an audio which says, "Welcome to the Talking Book, press the right hand to choose a subject." You can replace this with your own audio by uploading a custom greeting.
+When the Talking Book is powered on, it plays a default audio message: "Welcome to the Talking Book, press the right hand to choose a subject."
+
+You can [replace this message](./importing-custom-greetings.md) with your own audio tailored for each [recipient](../program-spec/introduction.md#recipients) by uploading a custom greeting.
