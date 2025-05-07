@@ -2,7 +2,7 @@ export default {
 	base: "/", // make sure this matches your repo name
 	title: "Amplio",
 	description: "Documentation for Amplion product",
-
+	cleanUrls: true,
 	markdown: {
 		theme: {
 			light: "catppuccin-latte",

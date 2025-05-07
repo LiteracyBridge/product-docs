@@ -1,7 +1,6 @@
 {
   "name": "product-documentation",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
