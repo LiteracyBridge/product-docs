@@ -14,14 +14,15 @@ To import content into the ACM, follow these steps:
 
 1. [Open the ACM](installation.md#open-acm)
 2. Click the menu icon (a laptop image) in the top-left corner of the ACM.
-3. In the window that appears, select the **Deployment** and **Language** options.
-4. Click **Next** to proceed.
-5. Click **Choose Audio File(s)** and select the audio files you want to import.
-6. Click **Next** to continue.
-7. Match each audio file (in the **Audio Files** column) with its corresponding message (in the **Title** column).
-8. Click **Next** to proceed.
-9. Review your selections. If needed, click **Prev** to make changes.
-10. Click **Finish** to complete the import process.
+3. Click the **Import Content** menu item
+4. In the window that appears, select the **Deployment** and **Language** options.
+5. Click **Next** to proceed.
+6. Click **Choose Audio File(s)** and select the audio files you want to import.
+7. Click **Next** to continue.
+8. Match each audio file (in the **Audio Files** column) with its corresponding message (in the **Title** column).
+9. Click **Next** to proceed.
+10. Review your selections. If needed, click **Prev** to make changes.
+11. Click **Finish** to complete the import process.
 
 > [!TIP]
 > Once imported, the content will appear in the ACM interface, as shown below:

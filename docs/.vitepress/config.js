@@ -36,6 +36,7 @@ export default {
 					{ text: "Introduction", link: "/acm/introduction" },
 					{ text: "Installation", link: "/acm/installation" },
 					{ text: "Importing Contents", link: "/acm/importing-contents" },
+					{ text: "Importing Playlist Prompts", link: "/acm/importing-playlist-prompts" },
 				],
 			},
 		],
