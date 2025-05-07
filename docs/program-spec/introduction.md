@@ -60,6 +60,8 @@ The section list the details of the contents of all deployments. The *contents* 
 
 > [!TIP]
 > A **message** is an audio recording that discusses a specific topic. Messages are grouped into one or more **playlists** or subjects.
+> The terms **messages** and **contents** are used interchangeably in the [ACM](../acm/introduction.md) and [program specification](../program-spec/introduction.md).
+
 
 Using Women's Land Right program as example, the playlists (subjects) are customary laws, customary laws, international conventions and treaties, marriage and divorce laws and inheritance laws. 'Customary laws' playlist might have messages on Women's Inheritance Rights, Widows' Rights, and Inheritance Rules.
 
