@@ -7,7 +7,7 @@
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
     "deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist",
-    "deploy:docker": "docker build --tag docs && docker run --publish 127.0.0.1:9000:9000 --restart always --detach docs"
+    "deploy:docker": "docker build --tag docs . && docker run --publish 127.0.0.1:9000:9000 --restart always --detach docs"
   },
   "keywords": [],
   "author": "",
