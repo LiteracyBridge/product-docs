@@ -12,7 +12,7 @@ COPY . .
 
 ENV PORT=9000
 
-RUN npm run build; rm -rf node_modules/
+RUN npm run build
 
 EXPOSE ${PORT}
 
