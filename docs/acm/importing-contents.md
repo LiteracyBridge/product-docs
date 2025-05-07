@@ -12,7 +12,7 @@ For example, if a message is specified in both English and French, it must be re
 
 To import content into the ACM, follow these steps:
 
-1. [Open the ACM](installation.md#open-acm).
+1. [Open the ACM](installation.md#open-acm)
 2. Click the menu icon (a laptop image) in the top-left corner of the ACM.
 3. In the window that appears, select the **Deployment** and **Language** options.
 4. Click **Next** to proceed.

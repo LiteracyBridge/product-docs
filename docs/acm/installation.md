@@ -16,6 +16,7 @@ To use the ACM, you must first install it on your computer. Follow these steps t
 {# TODO: link to tb loader #}
 
 ## Starting the ACM {#open-acm}
+
 After successfully installing the ACM software, follow these steps to open it:
 
 1. Double-click the **"Amplio ACM"** icon on your desktop to launch the application.
