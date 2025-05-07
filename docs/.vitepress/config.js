@@ -1,5 +1,5 @@
 export default {
-	base: "/product-docs/", // make sure this matches your repo name
+	base: "/", // make sure this matches your repo name
 	title: "Amplio",
 	description: "Documentation for Amplion product",
 
