@@ -15,4 +15,4 @@ RUN npm run build
 ENV PORT=9000
 EXPOSE ${PORT}
 
-CMD [ "http-server", "docs/.vitepress/dist" ]
+CMD [ "npm", "run", "server", "--", "--port", "9000"]
