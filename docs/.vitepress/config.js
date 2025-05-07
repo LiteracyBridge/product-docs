@@ -39,6 +39,7 @@ export default {
 					{ text: "Importing Playlist Prompts", link: "/acm/importing-playlist-prompts" },
 					{ text: "Importing System Prompts", link: "/acm/importing-system-prompts" },
 					{ text: "Importing Custom Greetings", link: "/acm/importing-custom-greetings" },
+					{ text: "Creating Deployment", link: "/acm/creating-deployment" },
 				],
 			},
 		],
