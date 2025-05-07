@@ -10,22 +10,27 @@ Key functionalities of the ACM are:
 - Import audio contents as listed in the [program specification](/program-spec/introduction#contents).
 - Create content packages for deployments.
 
-## Audio Contents
+## Audio Files
 
-> [!IMPORTANT]
+> [!TIP]
 > To create a deployment successfully, it is important to understand the audio groupings!
 
 The ACM organizes audio files into two main categories: **Messages (Contents)** and **Prompts**.
 
+## Messages (Contents) {#messages}
+
+As explained in the [program specification](../program-spec/introduction.md#contents):
+> A message or content is an audio recording that discusses a specific topic. Messages are grouped into one or more playlists or subjects.
+
+A message (content) can be of any duration, unlike [prompts](#prompt) which are short.
+
 > [!TIP]
-> **Messages (Contents)** are audio files that convey information related to the program's topic.
->
+> The terms **messages** and **contents** are used interchangeably in the [ACM](./introduction.md) and [program specification](../program-spec/introduction.md).
+
+## Prompt {#prompt}
 
 > [!TIP]
 > **Prompt** is a short audio, usually less than a minute, that is played to the user as a guide in navigating the Talking Book.
->
-
-### Prompt
 
 Prompt is further divided into three (3):  **Playlist Prompt**, **System Prompt** and  **Custom Greeting**.
 
