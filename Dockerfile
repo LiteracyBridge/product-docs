@@ -2,17 +2,11 @@ FROM node:lts-alpine
 
 RUN npm install -g http-server
 
-WORKDIR /product-docs
+WORKDIR /app
 
-COPY package*.json ./
-
-RUN npm install
-
-COPY . .
-
-RUN npm run build
+COPY docs/.vitepress/dist .
 
 ENV PORT=9000
 EXPOSE ${PORT}
 
-CMD [ "npm", "run", "serve", "--", "--port", "9000"]
+CMD [ "http-server", "."]
