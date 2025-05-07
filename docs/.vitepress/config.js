@@ -34,7 +34,7 @@ export default {
 				collapsed: false,
 				items: [
 					{ text: "Introduction", link: "/acm/introduction" },
-					{ text: "Setup", link: "/acm/setup" },
+					{ text: "Installation", link: "/acm/installation" },
 				],
 			},
 		],
