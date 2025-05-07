@@ -2,6 +2,7 @@
   "name": "product-documentation",
   "version": "1.0.0",
   "scripts": {
+    "vitepress": "vitepress",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
