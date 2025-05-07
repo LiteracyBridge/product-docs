@@ -35,6 +35,7 @@ export default {
 				items: [
 					{ text: "Introduction", link: "/acm/introduction" },
 					{ text: "Installation", link: "/acm/installation" },
+					{ text: "Importing Contents", link: "/acm/importing-contents" },
 				],
 			},
 		],
