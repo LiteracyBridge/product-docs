@@ -10,10 +10,9 @@ RUN npm install
 
 COPY . .
 
-ENV PORT=9000
-
 RUN npm run build
 
+ENV PORT=9000
 EXPOSE ${PORT}
 
 CMD [ "http-server", "docs/.vitepress/dist" ]
